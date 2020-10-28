@@ -1,3 +1,4 @@
+//program to print definition and pronunciation of a word
 #define DICTIONARY_FILE "dictionary.dat"
 char* get_definition(char* file_name)
 {
