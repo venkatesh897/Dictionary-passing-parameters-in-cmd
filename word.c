@@ -1,3 +1,4 @@
+//Program to take a word as an argument in command line
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
